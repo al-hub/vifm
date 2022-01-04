@@ -31,7 +31,7 @@ copy_vifm()
 
 backup_conf
 
-read -p "will you force copy .zshrc configure files?(y/n) :" yn 
+read -p "will you force copy vifm configure files?(y/n) :" yn 
 case $yn in
        	[Yy]* ) copy_vifm ; break;;
        	[Nn]* ) exit;;
