@@ -1,7 +1,7 @@
 #!/bin/bash
 W3MIMGDISPLAY="/usr/lib/w3m/w3mimgdisplay"
-FONTH=15 # Size of one terminal row
-FONTW=7 # Size of one terminal column
+FONTH=19 # Size of one terminal row
+FONTW=10 # Size of one terminal column
 
 pane_left=$(tmux display-message -p '#{pane_left}')
 pane_top=$(tmux display-message -p '#{pane_top}')
