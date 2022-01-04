@@ -23,9 +23,10 @@ copy_vifm()
 {
     curl -fLo ~/.config/vifm/vifmrc --create-dirs https://raw.githubusercontent.com/al-hub/vifm/main/vifmrc
 
-    curl -fLo ~/.config/vifm/compare-cmd --create-dirs https://raw.githubusercontent.com/al-hub/vifm/main/comapre-cmd
-    curl -fLo ~/.config/vifm/imgc --create-dirs https://raw.githubusercontent.com/al-hub/vifm/main/imgc
-    curl -fLo ~/.config/vifm/imgt --create-dirs https://raw.githubusercontent.com/al-hub/vifm/main/imgt
+    curl -fLo ~/.config/vifm/scripts/compare-cmd --create-dirs https://raw.githubusercontent.com/al-hub/vifm/main/scripts/comapre-cmd
+    curl -fLo ~/.config/vifm/scripts/imgc --create-dirs https://raw.githubusercontent.com/al-hub/vifm/main/scripts/imgc
+    curl -fLo ~/.config/vifm/scripts/imgt --create-dirs https://raw.githubusercontent.com/al-hub/vifm/main/scripts/imgt
+    curl -fLo ~/.config/vifm/colors/Default.vifm --create-dirs https://raw.githubusercontent.com/al-hub/vifm/main/colors/Default.vifm
 }
 
 backup_conf
