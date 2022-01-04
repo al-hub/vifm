@@ -10,7 +10,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/al-hub/vifm/main/install_v
 or clone this repository
 
 ### imgc, imgt  
-You can modify here for your environment.  
+You can modify to set the image position for your environment.  
 [example](https://github.com/al-hub/vifm/commit/354f50c249eb44e13855c7e0c715c6549b253ac8))  
 ~/.config/vifm/scripts/imgc  
 ~/.config/vifm/scripts/imgt  
