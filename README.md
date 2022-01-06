@@ -11,7 +11,7 @@ or clone this repository and use install_vifm.sh
 
 ### imgc, imgt  
 You can modify to set the image position for your environment.  
-edit 
+edit  
 ~/.config/vifm/scripts/imgc  
 ~/.config/vifm/scripts/imgt  
 ```
