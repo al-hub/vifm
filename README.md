@@ -1,13 +1,13 @@
 # [vifm](https://github.com/vifm/vifm)
 
-This is vifm customizing files.
+This is vifm config files for custimizing.
 
 You can install as
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/al-hub/vifm/main/install_vifm.sh)"
 ```
 
-or clone this repository
+or clone this repository and use install_vifm.sh
 
 ### imgc, imgt  
 You can modify to set the image position for your environment.  
