@@ -18,7 +18,7 @@ edit
 FONTH=15 
 FONTW=7 
 ```
-[example](https://github.com/al-hub/vifm/commit/354f50c249eb44e13855c7e0c715c6549b253ac8))  
+[example](https://github.com/al-hub/vifm/commit/354f50c249eb44e13855c7e0c715c6549b253ac8)  
 
 ### Results
 
