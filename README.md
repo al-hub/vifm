@@ -1,6 +1,6 @@
 # [vifm](https://github.com/vifm/vifm)
 
-This is vifm config files for custimizing.
+This is the custimizing vifm config files for ubundu.
 
 You can install as
 ```
