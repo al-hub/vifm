@@ -22,6 +22,6 @@ FONTW=7
 
 ### Results
 
-Here is my screenshot : )
+Here is my screenshot with tmux. : )
 ![vifmscreenshot](https://raw.githubusercontent.com/al-hub/data/main/img/vifm-screenshot.jpg)
 ![vifmscreenshot-gif](https://raw.githubusercontent.com/al-hub/data/main/img/vifm-screenshot.gif)
