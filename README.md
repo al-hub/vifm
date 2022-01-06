@@ -25,6 +25,6 @@ FONTW=7
 Here is my screenshot with tmux. : )
 ![vifmscreenshot](https://raw.githubusercontent.com/al-hub/data/main/img/vifm-screenshot.jpg)
 
-'w' is quick view (as totalcommand in windows)  
+'w' is quick view (as total command in windows)  
 And you can folder compare using by " :compare listall " command on vifm.  
 ![vifmscreenshot-gif](https://raw.githubusercontent.com/al-hub/data/main/img/vifm-screenshot.gif)
